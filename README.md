@@ -12,6 +12,11 @@ training.
 - No RL experience required
 - [`uv`](https://docs.astral.sh/uv) (package manager)
 
+```bash
+uv venv --python 3.12
+source .venv/bin/activate
+```
+
 ## How to Use This Course
 
 Each module has two parts:
